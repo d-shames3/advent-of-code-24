@@ -1011,7 +1011,7 @@ for line in raw_data:
         report.append(num)
     clean_data.append(report)
     
-def check_safe_report(a) -> bool:
+def check_safe_report(a: list) -> int:
     deltas = []
     
     raw_report = []
