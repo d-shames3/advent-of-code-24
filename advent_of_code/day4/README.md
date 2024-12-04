@@ -1,0 +1,2 @@
+## Day 4 Notes ###
+#### In the spirit of open learning, still commiting this one despite it being a fail. Opted to go the matrix route, and although some of my functions could likely be adapted, I made the early mistake of trying to speed things up by pulling a square at every position. I figured I'd deal with the potential dupes later, but then got in the weeds and was too far along. There's always tomorrow.
